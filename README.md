@@ -14,7 +14,7 @@ Contact: rainmankim@gmail.com
 
 This repository will show you the following in the following order:
 - (1) Connect Tableau Desktop with Cloudera Hadoop Server
-- (2) Enter custom SQL to extract necessary data
+- (2) Extract necessary data (with custom SQL if necessary)
 - (3) Publish data source onto "Ray's Tableau Server" with emedded authetification as LIVE data source
 - (4) From "Ray's Tabealu Server", change the data from LIVE to EXTRACT  (takes a while)
 - (5) Open a new Tableau Desktop instance and connect to the publisehd data source in "Ray's Tableau Server"
@@ -24,9 +24,11 @@ This repository will show you the following in the following order:
 ### Step 1.  Let's open up Tableau Desktop and connect to Cloudera Hadoop with your credentials
 <img align="center" src="https://user-images.githubusercontent.com/62319355/105792845-10337000-5fc3-11eb-9fd8-43d35e496f13.png" alt="tableau_cloudera_connection image">
 
-### STep 2. Next, connect to Cloudera Table.  And I am writing custom SQL query 
+### Step 2. Next, connect to Cloudera Table.  And I have written custom SQL query because the DB is too big(You can extract the DB as a whole)
 <img align="center" src="https://user-images.githubusercontent.com/62319355/105798924-3d395000-5fce-11eb-99e2-7ab2811a9fd9.png" alt="tableau_cloudera_connection image">
 
+### Step 3. Next, we shall now publish the databse onto "Ray's Tableau Server"
+<img align="center" src="https://user-images.githubusercontent.com/62319355/105798924-3d395000-5fce-11eb-99e2-7ab2811a9fd9.png" alt="tableau_cloudera_connection image">
 
 
 
