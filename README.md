@@ -21,7 +21,7 @@ This repository will show you the following in the following order:
 ```
 
 
-## Step 1.  Let's open up Tableau Desktop and connect to Cloudera Hadoop as shown below.
+### Step 1.  Let's open up Tableau Desktop and connect to Cloudera Hadoop as shown below.
 
 
 
