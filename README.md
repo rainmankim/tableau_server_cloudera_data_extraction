@@ -44,10 +44,11 @@ This repository will show you the following in the following order:
 <img align="center" src="https://user-images.githubusercontent.com/62319355/105806935-e3418600-5fdf-11eb-9379-6b47a65da4e5.png" alt="tableau_edit_connection"
 
 
+### Step 4B.  Change the data connection from LIVE to EXTRACT  (takes a while)
+<img align="center" src="https://user-images.githubusercontent.com/62319355/105820676-d4b19980-5ff4-11eb-9b60-ce1b78c4d3dc.png" alt="Live to extract">
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
-### Step 4B.  Change the data connection from LIVE to EXTRACT  (takes a while)
-<img align="center" src="https://github.com/rainmankim/SAP_automation_python/blob/master/images/scripting_pic.png" alt="SAP image">
+
 
 
 #### You can monitor the progress of extraction from the default Tableau Server Dashboard as shown below. 
