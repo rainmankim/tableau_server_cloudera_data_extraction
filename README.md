@@ -68,11 +68,6 @@ This repository will show you the following in the following order:
 
 
 
-#### You can monitor the progress of extraction from the default Tableau Server Dashboard as shown below. 
-#### For "Ray's Tableau Server", it will send emails once the data extraction is completed.
-
-<img align="center" src="https://user-images.githubusercontent.com/62319355/105821830-3fafa000-5ff6-11eb-897a-a0ceb4298d8e.png" alt="SAP image">
-
 
 
 ## Credits
