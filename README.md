@@ -12,7 +12,7 @@ Contact: rainmankim@gmail.com
 
 
 This repository will show you the following in the following order:
-- 1123
+- 112
 ```
 
 
