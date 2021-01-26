@@ -47,6 +47,18 @@ This repository will show you the following in the following order:
 ### Step 4B.  Change the data connection from LIVE to EXTRACT  (takes a while)
 <img align="center" src="https://user-images.githubusercontent.com/62319355/105820676-d4b19980-5ff4-11eb-9b60-ce1b78c4d3dc.png" alt="Live to extract">
 
+#### Once you click "Extract", "Ray's Tableau Server" will start to extract from Cloudera Database.
+<img align="center" src="https://user-images.githubusercontent.com/62319355/105821234-910b5f80-5ff5-11eb-912c-8cfb388d7023.png" alt="Live to extract">
+
+#### You will receive an email upton extraction (at least that is how it is configured).
+#### In addition, you can monitor the extraction process in real-time as shown.
+<img align="center" src="https://user-images.githubusercontent.com/62319355/105821234-910b5f80-5ff5-11eb-912c-8cfb388d7023.png" alt="Live to extract">
+
+
+
+
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 
