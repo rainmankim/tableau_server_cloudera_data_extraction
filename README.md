@@ -58,7 +58,7 @@ This repository will show you the following in the following order:
 
 
 ### Step 5. Once data source has been extracted on the Tableau, let us connect to the data.
-<img align="center" src="https://user-imageasfsadf5/105820676-d4b19980-5ff4-11eb-9b60-ce1b78c4d3dc.png" alt="Connect to ray DB">
+<img align="center" src="https://user-images.githubusercontent.com/62319355/105823826-9918ce80-5ff8-11eb-8d7c-fcbd4e1f97ab.png" alt="Connect to ray DB">
 
 
 
