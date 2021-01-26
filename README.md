@@ -64,11 +64,11 @@ This repository will show you the following in the following order:
 
 
 ### Step 6. (Optional) You can set refresh schedule on the Extract on "Ray's Tableau Server" easily.
-<img align="center" src="https://user-images.githubusercontent.com/62dsaf319355/105823826-9918ce80-5ff8-11eb-8d7c-fcbd4e1f97ab.png" alt="Connect to ray DB">
+<img align="center" src="https://user-images.githubusercontent.com/62319355/105824522-6e7b4580-5ff9-11eb-95fd-55e75066650d.png" alt="Refresh Extracts">
 
 
 
-
+🎈
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 
