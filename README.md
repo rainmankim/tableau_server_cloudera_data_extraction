@@ -10,13 +10,19 @@
 Creator: Ray Kim Dong Hyun
 Contact: rainmankim@gmail.com
 
+* For easier understanding, I am going to call Tableau Server "Ray's Tableau Server".
 
 This repository will show you the following in the following order:
-- (1)
-- (2)
-- (3)
-
+- (1) Connect Tableau Desktop with Cloudera Hadoop Server
+- (2) Enter custom SQL to extract necessary data
+- (3) Publish data source onto "Ray's Tableau Server" with emedded authetification as LIVE data source
+- (4) From "Ray's Tabealu Server", change the data from LIVE to EXTRACT  (takes a while)
+- (5) Open a new Tableau Desktop instance and connect to the publisehd data source
 ```
+
+
+
+
 
 
 ## Before starting, I recommend that you prepare two things
