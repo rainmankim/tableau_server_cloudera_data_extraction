@@ -18,7 +18,7 @@ This repository will show you the following in the following order:
 - (3) Publish data source onto "Ray's Tableau Server" with emedded authetification as LIVE data source
 - (4) From "Ray's Tabealu Server", change the data from LIVE to EXTRACT  (takes a while)
 - (5) Open a new Tableau Desktop instance and connect to the publisehd data source in "Ray's Tableau Server"
-- (6) Set refresch schedule for extracted data
+- (6-optional) Set refresch schedule for extracted data
 ```
 
 
@@ -58,8 +58,13 @@ This repository will show you the following in the following order:
 
 
 ### Step 5. Once data source has been extracted on the Tableau, let us connect to the data.
+#### Now, you will experience much less loading of data as compared to live connection.
+#### You may ask "Why not just extract from the very start?"  The biggest reason is that it can throw an error when you extract at the start.
 <img align="center" src="https://user-images.githubusercontent.com/62319355/105823826-9918ce80-5ff8-11eb-8d7c-fcbd4e1f97ab.png" alt="Connect to ray DB">
 
+
+### Step 6. (Optional) You can set refresh schedule on the Extract on "Ray's Tableau Server" easily.
+<img align="center" src="https://user-images.githubusercontent.com/62dsaf319355/105823826-9918ce80-5ff8-11eb-8d7c-fcbd4e1f97ab.png" alt="Connect to ray DB">
 
 
 
