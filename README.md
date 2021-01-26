@@ -38,39 +38,25 @@ This repository will show you the following in the following order:
 <img align="center" src="https://user-images.githubusercontent.com/62319355/105804723-788e4b80-5fdb-11eb-89b2-135c378efbd0.png">
 
 
-### Step 4. Now let us go to "Ray's Tableau Server".  
+### Step 4A. Now let us go to "Ray's Tableau Server".  
 #### Search for the published data soruce. 
 #### If you had published as "Prompt User", you can change to "Embedded Password" authetification instead.
 <img align="center" src="https://user-images.githubusercontent.com/62319355/105806935-e3418600-5fdf-11eb-9379-6b47a65da4e5.png" alt="tableau_edit_connection">
 
 
-### (1) Ensure your scripting is enabled on your SAP.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+### Step 4B.  Change the data connection from LIVE to EXTRACT  (takes a while)
 <img align="center" src="https://github.com/rainmankim/SAP_automation_python/blob/master/images/scripting_pic.png" alt="SAP image">
 
-#### You might need to request your IT department to allow this.
-### (2) Download Stefan Schnell's SAP Script Recorder.
-#### SAP has a built-in recorder. But if you use that you will need to change the syntax to be used in Python.
-#### Using Stefan's Recorder generates Python-friendly syntax along with many other powerful features.
-<img align="center" src="https://github.com/rainmankim/SAP_automation_python/blob/master/images/tracker.gif" alt="Tracker image">
-https://tracker.stschnell.de/
+
+#### You can monitor the progress of extraction from the default Tableau Server Dashboard as shown below. 
+#### For "Ray's Tableau Server", it will send emails once the data extraction is completed.
+
+<img align="center" src="https://github.com/rainmankim/SAP_automation_python/blob/master/images/scripting_pic.png" alt="SAP image">
 
 
-
-## Next, open any Python IDE/code editor. 
-## I recommend Jupyter Notebook so that you can slice data in-action.
-### Below is an example of recorded scripts which are modified to suit my needs (*for loops + various conditions)
-<img align="left" src="https://github.com/rainmankim/SAP_automation_python/blob/master/images/jupyter_snapshot.PNG"  alt="Jupyter image">
-
-
-## I have two main functions in my file — def sap_automate()  and def enter_data()
-### sap_automate(df) is the main function that will establish connection/session and automate log-in
-### enter_data(session,df) is a nested function that will execute actions within SAP
-<img align="left" src="https://github.com/rainmankim/SAP_automation_python/blob/master/images/jupyter_snapshot_main.PNG"  alt="Jupyter image">
-
-
-## Dealing with Excel
-### If you are writing to an existing excel, Pandas library would be not be enough
-### Use Excel modules such as xlwings or xlsxwriter
 
 ## Credits
 ```
