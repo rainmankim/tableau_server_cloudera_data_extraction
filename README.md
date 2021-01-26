@@ -29,7 +29,7 @@ This repository will show you the following in the following order:
 
 ### Step 3. Next, we shall now publish the databse onto "Ray's Tableau Server"
 <img align="center" src="https://user-images.githubusercontent.com/62319355/105799297-29dab480-5fcf-11eb-878d-a751ae42211c.png" alt="tableau_cloudera_connection image">
-
+I recommend publishing this as dddddddddddddddd
 
 
 ## Before starting, I recommend that you prepare two things
