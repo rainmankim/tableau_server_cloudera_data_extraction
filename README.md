@@ -1,4 +1,4 @@
-<img align="left" src="https://user-images.githubusercontent.com/62319355/105784986-d6f40380-5fb4-11eb-95e9-2261360d0120.jpg" width="150" height="80" alt="SAP image">
+<img align="left" src="https://user-images.githubusercontent.com/62319355/105784986-d6f40380-5fb4-11eb-95e9-2261360d0120.jpg" width="220" height="80" alt="SAP image">
 <img align="right" src="https://user-images.githubusercontent.com/62319355/105784475-dad35600-5fb3-11eb-8dc2-eb61292af5bc.png" width="150" height="80" alt="SAP image">
 :smile: :grinning: :sleepy: :relieved: :confused: :open_mouth: :astonished: :thumbsup:
 
