@@ -29,7 +29,15 @@ This repository will show you the following in the following order:
 
 ### Step 3. Next, we shall now publish the databse onto "Ray's Tableau Server"
 <img align="center" src="https://user-images.githubusercontent.com/62319355/105799297-29dab480-5fcf-11eb-878d-a751ae42211c.png" alt="tableau_cloudera_connection image">
-I recommend publishing this as dddddddddddddddd
+
+
+### I recommend publishing this with "Embedded Password" setting. 
+#### If you choose "prompt user", it will ask for your password every single time. 
+#### Alternatively, you can choose to publish as "prompt user" and change to "Embedded Password" in "Ray's Tableau Server".
+<img align="center" src="https://user-images.githubusercontent.com/62319355/105804723-788e4b80-5fdb-11eb-89b2-135c378efbd0.png">
+
+
+
 
 
 ## Before starting, I recommend that you prepare two things
