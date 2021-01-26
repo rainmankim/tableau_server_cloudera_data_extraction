@@ -12,7 +12,10 @@ Contact: rainmankim@gmail.com
 
 
 This repository will show you the following in the following order:
-- 112 ㅅㄷㄴㅅ
+- (1)
+- (2)
+- (3)
+
 ```
 
 
@@ -47,10 +50,7 @@ https://tracker.stschnell.de/
 
 ## Credits
 ```
-- Stefan Schnell
-- SAP community (https://answers.sap.com/index.html)     
-- https://guides.github.com/features/mastering-markdown/
-- Secular saints of StackOverFlow
+- Secular saints of Tableau Community
 ```
 
 
