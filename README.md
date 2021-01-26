@@ -18,6 +18,7 @@ This repository will show you the following in the following order:
 - (3) Publish data source onto "Ray's Tableau Server" with emedded authetification as LIVE data source
 - (4) From "Ray's Tabealu Server", change the data from LIVE to EXTRACT  (takes a while)
 - (5) Open a new Tableau Desktop instance and connect to the publisehd data source in "Ray's Tableau Server"
+- (6) Set refresch schedule for extracted data
 ```
 
 
@@ -54,6 +55,10 @@ This repository will show you the following in the following order:
 #### In addition, you can monitor the extraction process in real-time as shown.
 <img align="center" src="https://user-images.githubusercontent.com/62319355/105821234-910b5f80-5ff5-11eb-912c-8cfb388d7023.png" alt="Live to extract">
 
+
+
+### Step 5. Once data source has been extracted on the Tableau, let us connect to the data.
+<img align="center" src="https://user-images.githubusercontent.com/62319355/105820676-d4b19980-5ff4-11eb-9b60-ce1b78c4d3dc.png" alt="Connect to ray DB">
 
 
 
