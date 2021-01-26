@@ -24,6 +24,11 @@ This repository will show you the following in the following order:
 ### Step 1.  Let's open up Tableau Desktop and connect to Cloudera Hadoop with your credentials
 <img align="center" src="https://user-images.githubusercontent.com/62319355/105792845-10337000-5fc3-11eb-9fd8-43d35e496f13.png" alt="tableau_cloudera_connection image">
 
+### STep 2. Next, connect to Cloudera Table.  And I am writing custom SQL query 
+<img align="center" src="https://user-images.githubusercontent.com/62319355/105792845-10337000-5fc3-11eb-9fd8-43d35e496f13.png" alt="tableau_cloudera_connection image">
+
+
+
 
 ## Before starting, I recommend that you prepare two things
 ### (1) Ensure your scripting is enabled on your SAP.
