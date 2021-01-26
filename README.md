@@ -1,30 +1,18 @@
 <img align="left" src="https://user-images.githubusercontent.com/62319355/105784986-d6f40380-5fb4-11eb-95e9-2261360d0120.jpg" width="220" height="80" alt="SAP image">
-<img align="right" src="https://user-images.githubusercontent.com/62319355/105784475-dad35600-5fb3-11eb-8dc2-eb61292af5bc.png" width="150" height="80" alt="SAP image">
+<img align="right" src="https://user-images.githubusercontent.com/62319355/105791113-6eab1f00-5fc0-11eb-938c-58db40f72c20.png" width="150" height="80" alt="SAP image">
 :smile: :grinning: :sleepy: :relieved: :confused: :open_mouth: :astonished: :thumbsup:
 
 
 # tableau_server_cloudera_data_extraction
 
 
-
-
-
-
-
-
-
 ```
-Hi,  my name is Ray Kim. I am here to share my experience in SAP automation. 
-I am the furtherest thing from an expert but I hope my codes can help you.
-You can contact me at rainmankim@gmail.com for further assistance.
+Creator: Ray Kim Dong Hyun
+Contact: rainmankim@gmail.com
 
-This repository will explain how you can automate SAP log-in and execute T-code.
-If you can do that, you can easily figure out the rest, using Stefan's recorder.
-I am keeping things simple here to avoid confusion
 
-In this use-case, I am not using PyAutoGui or OpenCV.
-Those things can be used by all means.
-But Stefan's recorder shortens development time for SAP automation at zero cost.
+This repository will show you the following in the following order:
+- 1123
 ```
 
 
