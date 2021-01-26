@@ -31,16 +31,23 @@ This repository will show you the following in the following order:
 <img align="center" src="https://user-images.githubusercontent.com/62319355/105799297-29dab480-5fcf-11eb-878d-a751ae42211c.png" alt="tableau_cloudera_connection image">
 
 
-### I recommend publishing this with "Embedded Password" setting. 
+### I recommend publishing this with "Embedded Password" setting with Live connection (because it often fails when you try to extract first)
 #### If you choose "prompt user", it will ask for your password every single time. 
-#### Alternatively, you can choose to publish as "prompt user" and change to "Embedded Password" in "Ray's Tableau Server".
+#### Alternatively, you can choose to publish as "prompt user" and you can still change to "Embedded Password" in "Ray's Tableau Server".
+#### I will show you in step 4
 <img align="center" src="https://user-images.githubusercontent.com/62319355/105804723-788e4b80-5fdb-11eb-89b2-135c378efbd0.png">
 
 
+### Step 4. Now let us go to "Ray's Tableau Server".  
+#### Search for the published data soruce. 
+#### If you had published as "Prompt User", you can change to "Embedded Password" authetification instead.
+<img align="center" src="https://user-images.githubusercontent.com/62319355/105804723-788e4b80-5fdb-11eb-89b2-135c378efbd0.png alt="tableau_edit_connection" ">
 
 
 
-## Before starting, I recommend that you prepare two things
+
+
+
 ### (1) Ensure your scripting is enabled on your SAP.
 <img align="center" src="https://github.com/rainmankim/SAP_automation_python/blob/master/images/scripting_pic.png" alt="SAP image">
 
