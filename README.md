@@ -53,7 +53,7 @@ This repository will show you the following in the following order:
 
 #### You will receive an email upton extraction (at least that is how it is configured).
 #### In addition, you can monitor the extraction process in real-time as shown.
-<img align="center" src="https://user-images.githubusercontent.com/62319355/105821234-910b5f80-5ff5-11eb-912c-8cfb388d7023.png" alt="Live to extract">
+<img align="center" src="https://user-images.githubusercontent.com/62319355/105821830-3fafa000-5ff6-11eb-897a-a0ceb4298d8e.png" alt="Live to extract">
 
 
 
