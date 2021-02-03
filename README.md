@@ -77,6 +77,8 @@ This repository will show you the following in the following order:
 
 ## Credits
 ```
+- Mohammed Shameel  (insanely smart and resourceful)
+https://in.linkedin.com/public-profile/in/mohammedshameel
 - Secular saints of Tableau Community
 ```
 
