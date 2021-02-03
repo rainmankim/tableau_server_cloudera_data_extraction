@@ -9,6 +9,7 @@
 ```
 Creator: Ray Kim Dong Hyun
 Contact: rainmankim@gmail.com
+Credits: Mohammed Shameel  (insanely smart and resourceful)
 
 * For easier understanding, I am going to call Tableau Server "Ray's Tableau Server".
 
