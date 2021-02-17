@@ -43,7 +43,7 @@ This repository will show you the following in the following order:
 ### Step 4A. Now let us go to "Ray's Tableau Server".  
 #### Search for the published data soruce. 
 #### If you had published as "Prompt User", you can change to "Embedded Password" authetification instead.
-<img align="center" src="https://user-images.githubusercontent.com/62319355/105806935-e3418600-5fdf-11eb-9379-6b47a65da4e5.png" alt="tableau_edit_connection"
+<img align="center" src="https://user-images.githubusercontent.com/62319355/105806935-e3418600-5fdf-11eb-9379-6b47a65da4e5.png" alt="tableau_edit_connection">
 
 
 ### Step 4B.  Change the data connection from LIVE to EXTRACT  (takes a while)
