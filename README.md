@@ -21,6 +21,9 @@ This repository will show you the following in the following order:
 - (5) Open a new Tableau Desktop instance and connect to the publisehd data source in "Ray's Tableau Server"
 - (6-optional) Set refresch schedule for extracted data
 ```
+### Step 0. Before doing anything, you must first ensure Cloudera's ODBC Driver is installed
+Please download the latest version of ODBC Driver
+https://www.cloudera.com/downloads/connectors/hive/odbc/2-6-1.html
 
 
 ### Step 1.  Let's open up Tableau Desktop and connect to Cloudera Hadoop with your credentials
