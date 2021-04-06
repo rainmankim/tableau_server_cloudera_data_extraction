@@ -22,7 +22,7 @@ This repository will show you the following in the following order:
 - (6-optional) Set refresch schedule for extracted data
 ```
 ### Step 0. Before doing anything, you must first ensure Cloudera's ODBC Driver is installed
-Please download the latest version of ODBC Driver
+Please download the latest version of ODBC Driver <br/>
 https://www.cloudera.com/downloads/connectors/hive/odbc/2-6-1.html
 
 
