@@ -25,6 +25,12 @@ This repository will show you the following in the following order:
 Please download the latest version of ODBC Driver <br/>
 https://www.cloudera.com/downloads/connectors/hive/odbc/2-6-1.html
 
+#### Once ODBC Driver is installed, please set up as shown below
+<img align="center" src="https://user-images.githubusercontent.com/62319355/105792845-10337000-5faa8-43d35e496f13.png" alt="ODBC_set_up">
+#### Remember to enable SSL Certification
+<img align="center" src="https://user-images.githubusercontent.com/62319355/105792845-1033700aaaaaaaad35e496f13.png" alt="SSL_enable">
+
+
 
 ### Step 1.  Let's open up Tableau Desktop and connect to Cloudera Hadoop with your credentials
 <img align="center" src="https://user-images.githubusercontent.com/62319355/105792845-10337000-5fc3-11eb-9fd8-43d35e496f13.png" alt="tableau_cloudera_connection image">
