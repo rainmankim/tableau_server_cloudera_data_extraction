@@ -26,7 +26,7 @@ Please download the latest version of ODBC Driver <br/>
 https://www.cloudera.com/downloads/connectors/hive/odbc/2-6-1.html
 
 #### Once ODBC Driver is installed, please set up as shown below
-<img align="center" src="https://user-images.githubusercontent.com/62319355/105792845-10337000-5faa8-43d35e496f13.png" alt="ODBC_set_up">
+<img align="center" src="https://user-images.githubusercontent.com/62319355/121278485-3f5cd500-c905-11eb-8c89-77172cc2ad13.png" alt="ODBC_set_up">
 #### Remember to enable SSL Certification
 <img align="center" src="https://user-images.githubusercontent.com/62319355/105792845-1033700aaaaaaaad35e496f13.png" alt="SSL_enable">
 
