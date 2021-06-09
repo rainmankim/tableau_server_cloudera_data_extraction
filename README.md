@@ -9,7 +9,7 @@
 ```
 Creator: Ray Kim Dong Hyun
 Contact: rainmankim@gmail.com
-Credits: Mohammed Shameel  (insanely smart and resourceful)
+Credits: Mohammed Shameel 
 
 * For easier understanding, I am going to call Tableau Server "Ray's Tableau Server".
 
@@ -78,7 +78,7 @@ https://www.cloudera.com/downloads/connectors/hive/odbc/2-6-1.html
 
 
 
-🎈🦾 😎 That's it from me.  Happy Data Stitching!!
+🎈🦾 😎  Happy Data Stitching!!
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 
