@@ -9,7 +9,7 @@
 ```
 
 
-* For easier understanding, I am going to call Tableau Server "Ray's Tableau Server".
+* For easier referencing, I am going to call my Tableau Server "Ray's Tableau Server".
 
 This repository will show you the following in the following order:
 - (1) Connect Tableau Desktop with Cloudera Hadoop Server
